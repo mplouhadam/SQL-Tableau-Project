@@ -7,6 +7,8 @@
 
 
 ## Live Demo
+[<img align="left" alt="Tableau Project" src="https://raw.githubusercontent.com/mplouhadam/SQL-Tableau-Project/main/Dashboard.PNG" />]
+
 [View project details on Tableau Public](https://public.tableau.com/app/profile/adam.sulistyo.n/viz/InformationaboutEmployees/Dashboard1)
 
 
